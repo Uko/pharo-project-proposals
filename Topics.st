@@ -541,7 +541,7 @@ PharoTopic new
 
 PharoTopic new
 	title: 'HotDraw';
-	contact: 'yuriy.tymchuk@usi,ch';
+	contact: 'yuriy.tymchuk@usi.ch';
 	supervisors: 'M. Lanza and Y. Tymchuk';
 	keywords: 'visualisation patterns';
 	context: 'HotDraw was a visual editor and a framework for interactive visualisation built buy Kent Beck. Bringing HotDraw to Pharo will provide community with an amazing tool for visualising. Student will have superb experience of working with programming patterns, an HotDraw is coded in a very nice way.';
@@ -553,12 +553,12 @@ PharoTopic new
 
 PharoTopic new
 	title: 'Preferences persistance';
-	contact: 'yuriy.tymchuk@usi,ch';
+	contact: 'yuriy.tymchuk@usi.ch';
 	supervisors: '[Free Slot] and Y. Tymchuk';
 	keywords: 'settings configuration setup';
 	context: 'At the moment settings in Pharo are good for nothing as they are lost as soon as user changes his image. You can write startup actions that are executed on start of each image, but why do you want to edit some hidden files when you have Pharo?';
 	goal: 'Add the ability so store settings you apply in the image in your PC user preferences so they will be re-applied to all images you use. Try to resolve conflicts that will emerge because of versions and changes.';
-	level: 'intermediate';
+	level: 'intermediate (maybe easier)';
 	yourself
 
 
