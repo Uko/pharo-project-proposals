@@ -561,6 +561,17 @@ PharoTopic new
 	level: 'intermediate (maybe easier)';
 	yourself
 
+.
+
+PharoTopic new
+	title: 'Resources tools';
+	contact: 'yuriy.tymchuk@usi.ch';
+	supervisors: '[Free Slot] and Y. Tymchuk';
+	keywords: 'resources data tools icons';
+	context: 'During project development we encounter requirements to use some data that is not source-code related. Usually this are media files (images, sounds, etc..). For now the strategy is to load the binary data into the image, then generate some literal from it, and write it down in some method. This approach is not friendly to developers, that's why it's reasonable to develop something new.';
+	goal: 'Develop browser of a loaded data (with support of loading new data and removing existing one). Create mechanics to convert resources to source code (and get it back) in order to keep your data in versioning system.';
+	level: 'intermediate (maybe easier)';
+	yourself
 
 }
 
